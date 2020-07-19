@@ -13,7 +13,6 @@ published: true
 
 [kitchen surprise](file:///C:/Users/polla/Downloads/Kitchen%20Surprise.mp4)
 
-![kitchen](https://imgur.com/gallery/NtnLkkp)
 
 ![](http://i.imgur.com/OUkLi.gif)
 
@@ -23,4 +22,12 @@ published: true
 
 ![](imgur.com/a/NtnLkkp)
 
-![](https://i.imgur.com/Cc5JFPK.mp4)
+![kitchen2](https://i.imgur.com/Cc5JFPK.mp4)
+
+-![Gif](http://i.imgur.com/Cc5JFPK.gif)
+
++<img src="/art/sample.gif?raw=true" width="100px">
+
+![Gif](https://media.giphy.com/media/cnQNr01OZeDgCKpVdQ/source.gif)
+
+![Gif](imgur.com/a/NtnLkkp)
