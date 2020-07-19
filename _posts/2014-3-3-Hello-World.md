@@ -5,29 +5,14 @@ published: true
 ---
 
 ## This is an undefined category of ideas and concepts that make me think.
+by Adrian Lavelle
 
 ![self portrait]({{site.baseurl}}/_posts/MOSHED-2020-7-19-19-54-9.jpg)
 
 
-### Kitchen Table
+- ### Kitchen suprise
 
-[kitchen surprise](file:///C:/Users/polla/Downloads/Kitchen%20Surprise.mp4)
+![Kitchen suprise](https://i.giphy.com/cnQNr01OZeDgCKpVdQ.gif)
 
+![me](https://media2.giphy.com/media/U7UzGwEYnckoSUWBxX/giphy.gif)
 
-![](http://i.imgur.com/OUkLi.gif)
-
-![](https://giphy.com/gifs/cnQNr01OZeDgCKpVdQ)
-
-![](https://media.giphy.com/media/cnQNr01OZeDgCKpVdQ/source.mov)
-
-![](imgur.com/a/NtnLkkp)
-
-![kitchen2](https://i.imgur.com/Cc5JFPK.mp4)
-
--![Gif](http://i.imgur.com/Cc5JFPK.gif)
-
-+<img src="/art/sample.gif?raw=true" width="100px">
-
-![Gif](https://media.giphy.com/media/cnQNr01OZeDgCKpVdQ/source.gif)
-
-![Gif](imgur.com/a/NtnLkkp)
