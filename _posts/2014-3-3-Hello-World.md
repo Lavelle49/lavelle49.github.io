@@ -15,5 +15,8 @@ by Adrian Lavelle
 
 ![Kitchen suprise](https://i.giphy.com/cnQNr01OZeDgCKpVdQ.gif)
 
+(how surprising..!)
+
 ![me](https://media2.giphy.com/media/U7UzGwEYnckoSUWBxX/giphy.gif)
+
 
